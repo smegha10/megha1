@@ -1,0 +1,4 @@
+Git  rebase
+==============
+This is called as fast forward merge.
+The commits from the child branch are added to the top of the master branch.
